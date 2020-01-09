@@ -1,0 +1,4 @@
+%defattr(644,root,root,755)
+/lib/firmware/updates/iwlwifi-7260-13.ucode
+/lib/firmware/updates/iwlwifi-7265-13.ucode
+/lib/firmware/updates/iwlwifi-7265D-13.ucode
